@@ -1,0 +1,32 @@
+Drive Train Left Front CIM Motor – Motor Controller 1 – 40 Amp Slot on PDB – 40 Amp Circuit Breaker on PDB
+Motor Controller 1 – PWM Out Port 1, Digital Sidecar 1
+Drive Train Right Front CIM Motor – Motor Controller 2 – 40 Amp Slot on PDB – 40 Amp Circuit Breaker on PDB
+Motor Controller 2 – PWM Out Port 2, Digital Sidecar 1
+Drive Train Left Back CIM Motor – Motor Controller 3 – 40 Amp Slot on PDB – 40 Amp Circuit Breaker on PDB
+Motor Controller 3 – PWM Out Port 3, Digital Sidecar 1
+Drive Train Right Back CIM Motor – Motor Controller 4 – 40 Amp Slot on PDB – 40 Amp Circuit Breaker on PDB
+Motor Controller 4 – PWM Out Port 4, Digital Sidecar 1
+
+ 
+Endgame Left Window Motor – Motor Controller 5 – 30 Amp Slot on PDB – 30 Amp Circuit Breaker on PDB
+Motor Controller 5 – PWM Out Port 5, Digital Sidecar 1
+Endgame Right Window Motor – Motor Controller 6 – 30 Amp Slot on PDB – 30 Amp Circuit Breaker on PDB
+Motor Controller 6 – PWM Out Port 6, Digital Sidecar 1
+
+ 
+Shooter Front Bag Motor – Motor Controller 7 – 40 Amp Slot on PDB – 40 Amp Circuit Breaker on PDB
+Motor Controller 7 – PWM Out Port 7, Digital Sidecar 1
+Shooter Back Mini-CIM Motor – Motor Controller 8 – 40 Amp Slot on PDB – 40 Amp Circuit Breaker on PDB
+Motor Controller 8 – PWM Out Port 8, Digital Sidecar 1
+
+ 
+Shooter Arm Raise/Lower Gear Motor – Motor Controller 9 – 30 Amp Slot on PDB – 30 Amp Circuit Breaker on PDB
+Motor Controller 9 – PWM Out Port 9, Digital Sidecar 1
+
+ 
+Feeder Servo 1 – PWM Out Port 1, Digital Sidecar 2
+Feeder Servo 2 – PWM Out Port 2, Digital Sidecar 2
+Feeder Servo 3 – PWM Out Port 3, Digital Sidecar 2
+Feeder Servo 4 – PWM Out Port 4, Digital Sidecar 2
+
+UPDATED AS OF: 12/26/2013
